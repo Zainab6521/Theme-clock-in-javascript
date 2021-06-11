@@ -57,9 +57,8 @@ body {
 
 .clock {
   position: relative;
-  width: 250px;
-  height: 250px;
-  border: 2px solid var(--primary-color);
+  width: 200px;
+  height: 200px;
   border-radius: 50%;
 }
 
@@ -119,7 +118,7 @@ body {
 .date {
   color: var(--primary-color);
   font-size: 20px;
-  letter-spacing: 0.6px;
+  letter-spacing: 0.3px;
   text-transform: uppercase;
 }
 
@@ -127,8 +126,8 @@ body {
   background-color: var(--primary-color);
   color: var(--secondary-color);
   border-radius: 50%;
-  height: 28px;
-  width: 28px;
+  height: 18px;
+  width: 18px;
   display: inline-flex;
   text-align: center;
   align-items: center;
